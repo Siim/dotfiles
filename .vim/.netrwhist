@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/siim/mnt/Users/Siim/Desktop/kultajousi/flash'
+let g:netrw_dirhist_2='/home/siim/django/fest/locale/et_EE'
+let g:netrw_dirhist_3='/'
+let g:netrw_dirhist_4='/home/siim/django/poll/.git'
+let g:netrw_dirhist_5='/home/siim/test'
+let g:netrw_dirhist_6='/home/siim/.vim/autoload/l9'
+let g:netrw_dirhist_7='/home/siim/.eclim/resources'
+let g:netrw_dirhist_8='/home/siim/Desktop'
